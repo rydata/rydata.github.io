@@ -55,6 +55,4 @@ df0 = df0.rename(columns={'Work_accident': 'work_accident',
 - .isnull(), .duplicated(), .drop_duplicates() to check for missing values and duplicates
 - boxplot to check for outliers 
 
-
-![outlier_boxplot](\portfolio\HR_Analysis\tenure_boxplot.png)
-
+![outlier_boxplot](/portfolio/HR_Analysis/tenure_boxplot.png)
