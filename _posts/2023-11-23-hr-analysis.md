@@ -15,3 +15,4 @@ Through analysis employee who leave likely fall into these 4 groups:
 - dissatisfied and with lower tenure, 3 years and below
 - This subgroup have lower tenures, worked less hours and had less projects assigned.
 
+gi
