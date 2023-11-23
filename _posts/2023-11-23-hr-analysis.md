@@ -13,7 +13,7 @@ In this project, the following skills were applied: Cleaning, EDA, Logistic Regr
 - We are tasked to understand the employee turn over in the company.
 - Based on this, we pull insights and strategical recommendations.
 - Libraries used include: numpy, pandas, matplotlib, seaborn, sklearn (logistic regression, decision tree, random forest, gridsearch, metrics) and pickle to save the model.
-- You can access the Jupyter Notebook IPYNB file here **[LINK](https://github.com/Roberto121c/Bank_loans_analysis/blob/main/Code/Finance_data_analysis.ipynb)**
+- You can access the Jupyter Notebook IPYNB file here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/HR%20Analysis/Course%207%20Salifort%20Motors%20project%20lab.ipynb)**
 
 ## Project Findings Overview
 ### On Employees who left:
@@ -56,6 +56,6 @@ df0 = df0.rename(columns={'Work_accident': 'work_accident',
 - boxplot to check for outliers 
 
 
+![outlier_boxplot](\portfolio\HR_Analysis\tenure_boxplot.png)
 
-
-
+You can use 
