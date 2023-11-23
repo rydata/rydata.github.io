@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "HR Analysis on Employee Turnover! FULL DATA SCIENCE PROCESS",
+    "url": "/posts/HR-Analysis/",
+    "categories": "",
+    "tags": "Data Science, Cleaning, EDA, Visualization, Logistic Regression, Decision Tree, Random Forest, Feature Engineering, Recommendations",
+    "date": "2023-11-22 00:00:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "Understanding Turnover for Salifort MotorsData Science (Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report)FindingsThrough analysis employee who leave likely fall into thes...",
+    "content": "Understanding Turnover for Salifort MotorsData Science (Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report)FindingsThrough analysis employee who leave likely fall into these 4 groups:  Churned 1 includes:          Significantly worked less hours with only 2 projects assigned      dissatisfied and with lower tenure, 3 years and below      This subgroup have lower tenures, worked less hours and had less projects assigned.        Churned 2 includes:          Significantly more hours worked and more projects assigned      Everyone with 7 projects assigned left      This subgroup may have been exposed to overwork or experienced burnout.        Churned 3 includes:          High satisfaction, but very significant amount of monthly work hours 225 - 275.      High satisfaction, with higher tenure (more than 5 years) but still left      This subgroup may have left due to lack in promotion and salary increase.        Churned 4 includes:          4 Year tenure with very low satisfaction      This subgroup may have experienced impactful changes.      Further investigation of changes in policies required.      Meanwhile employees who stayed have the ff experiences:  An average of 3-4 projects assigned. Still with high monthly hours of 150-255 hours, from the average 166.7  Satisfaction level ranges were relatively high for tenures 2-4, lowered for tenures 5-6, then returned to the initial ranges for 7 and above years.Project Flow OverviewPlanning  Data Cleaning - Checked for Missing Values, Duplicates and Outliers (using Interquartile range)Analyzing  Data Exploration and Visualization - Visualized and identified important relationships between important variables through heatmaps, boxplots, histograms etc.Model Construction  Logistic Regression model is shown to be a good predictor  Decision Tree model showed even greater performance  Random Forest model showed great performance also  Feature Engineering - Created a new column for “overworked” employees based on monthly hours. Variables that will be not be realistically available were dropped.  Model Reconstruction B &amp; C - A second round of tree based models were created based on new featuresReporting and Evaluation  Evaluation: Feature Importances were created for both tree based models.  Recommendations: Findings, and Next steps were reported.This post contains a deep dive into a Human Resource dataset outlining the steps taken to understand what is causing turnover in the company. Insights are provided across the"
+  },
+  
+  {
+    "title": "Real Estate Sales Dashboard - Data Visualization Tableau",
+    "url": "/posts/Interactive-Sales-Dashboard/",
+    "categories": "Blogging, Demo",
+    "tags": "typography",
+    "date": "2019-08-08 11:33:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "Tableau Project - Real Estate Sales DashboardProject Overview",
+    "content": "Tableau Project - Real Estate Sales DashboardProject Overview"
+  }
+  
+]
+

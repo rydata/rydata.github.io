@@ -1,0 +1,104 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Ryan Lotilla</title>
+  <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
+  <updated>2023-11-23T15:34:13+08:00</updated>
+  <author>
+    <name>Ryan Lotilla</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Ryan Lotilla </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>HR Analysis on Employee Turnover! FULL DATA SCIENCE PROCESS</title>
+    <link href="http://localhost:4000/posts/HR-Analysis/" rel="alternate" type="text/html" title="HR Analysis on Employee Turnover! FULL DATA SCIENCE PROCESS" />
+    <published>2023-11-22T00:00:00+08:00</published>
+  
+    <updated>2023-11-23T15:23:51+08:00</updated>
+  
+    <id>http://localhost:4000/posts/HR-Analysis/</id>
+    <content src="http://localhost:4000/posts/HR-Analysis/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Understanding Turnover for Salifort Motors
+Data Science (Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report)
+Findings
+
+Through analysis employee who leave likely fall into these 4 groups:
+
+  Churned 1 includes:
+    
+      Significantly worked less hours with only 2 projects assigned
+      dissatisfied and with lower tenure, 3 years and below
+      This subgroup have low...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Real Estate Sales Dashboard - Data Visualization Tableau</title>
+    <link href="http://localhost:4000/posts/Interactive-Sales-Dashboard/" rel="alternate" type="text/html" title="Real Estate Sales Dashboard - Data Visualization Tableau" />
+    <published>2019-08-08T11:33:00+08:00</published>
+  
+    <updated>2023-11-23T15:23:51+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Interactive-Sales-Dashboard/</id>
+    <content src="http://localhost:4000/posts/Interactive-Sales-Dashboard/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Demo" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Tableau Project - Real Estate Sales Dashboard
+Project Overview
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
