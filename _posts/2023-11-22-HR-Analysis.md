@@ -1,12 +1,10 @@
 ---
-title: "HR Analysis"
+title: "HR Analysis on Employee Turnover! FULL DATA SCIENCE PROCESS"
 author: Ryan Lotilla
 date: 2023-11-22 00:00:00 +0800
 tags: [Data Science, Cleaning, EDA, Visualization, Logistic Regression, Decision Tree, Random Forest, Feature Engineering, Recommendations] 
-pin: true
-math: true
 ---
-#🧑🏻‍🤝‍🧑🏽 HR Analysis on Employee Turnover! FULL DATA SCIENCE PROCESS
+
 # Understanding Turnover for Salifort Motors
 ## Data Science (Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report)
 ## Findings 
