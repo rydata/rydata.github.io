@@ -58,4 +58,3 @@ df0 = df0.rename(columns={'Work_accident': 'work_accident',
 
 ![outlier_boxplot](\portfolio\HR_Analysis\tenure_boxplot.png)
 
-You can use 
