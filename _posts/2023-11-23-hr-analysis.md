@@ -1,5 +1,5 @@
 ---
-title: "HR Analysis on Employee Turnover"
+title: "🧑🏻‍🤝‍🧑🏽 HR Analysis on Employee Turnover! Full Data Science Process"
 date: 2023-11-23 00:00:00 +0800
 categories: [Full Process, Data Science]
 tags: [data science, cleaning, eda, visualization, logistic regression, decision tree, random forest, feature engineering, recommendations]
@@ -15,4 +15,3 @@ Through analysis employee who leave likely fall into these 4 groups:
 - dissatisfied and with lower tenure, 3 years and below
 - This subgroup have lower tenures, worked less hours and had less projects assigned.
 
-gi
