@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-11-23T17:31:24+08:00</updated>
+  <updated>2023-11-23T19:41:48+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/hr-analysis/" rel="alternate" type="text/html" title="🧑🏻‍🤝‍🧑🏽 HR Analysis on Employee Turnover! Full Data Science Process" />
     <published>2023-11-23T00:00:00+08:00</published>
   
-    <updated>2023-11-23T17:18:50+08:00</updated>
+    <updated>2023-11-23T17:32:07+08:00</updated>
   
     <id>http://localhost:4000/posts/hr-analysis/</id>
     <content src="http://localhost:4000/posts/hr-analysis/" />
@@ -51,15 +51,12 @@
       Data Science Process
 In this project, the following skills were applied: Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report
 
-Findings
+Project Objective Overview
 
-Through analysis employee who leave likely fall into these 4 groups:
-
-  Churned 1 includes:
-    
-      Significantly worked less hours with only 2 projects assigned
-      dissatisfied and with lower tenure, 3 years and below
-      This s...
+  Central Question: Why causes employees to leave the company?
+  We are tasked to understand the employee turn over in the company.
+  Based on this, we pull insights and strategical recommendations.
+  Libraries used inc...
     </summary>
   
 
