@@ -5,8 +5,9 @@ categories: [Full Process, Data Science]
 tags: [data science, cleaning, eda, visualization, logistic regression, decision tree, random forest, feature engineering, recommendations]
 ---
 
-# Understanding Turnover for Salifort Motors
-## Data Science (Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report)
+## Data Science Process 
+In this project, the following skills were applied: Cleaning, EDA, Logistic Regression, Decision Tree, Random Forest and Report
+
 ## Findings 
 
 Through analysis employee who leave likely fall into these 4 groups: 
