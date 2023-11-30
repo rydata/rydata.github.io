@@ -15,6 +15,8 @@ tags: [Excel, Dashboard, Visualization]
 
 ![excel_dashboard_preview](/portfolio/Excel_Dashboard/dashboard_visual.png)
 
+You can access the EXCEL file here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Excel_Dashboard/enrollment_excel_db.xlsx)**
+
 ## Objectives
 - Visualize overall enrollment and performance for each region.
 - Compare registered and unregistered clients for each region.
@@ -31,7 +33,7 @@ tags: [Excel, Dashboard, Visualization]
 - The task was to create a dashboard to track performance for the new mobile app enrollment campaign.
 - Due to data privacy, I was not provided with data, only examples from previous dashboards. 
 
-## Creation Process
+## Steps Taken
 ### 1. Gathering of Relevant information
 - Available resources, tasks, references and relevant data was gathered in this step.
 - One of the most important resources I had was the reference to old dashboards due to the lack of data access as interns. 
@@ -83,3 +85,4 @@ tags: [Excel, Dashboard, Visualization]
 - Feature engineering may also be also be applied to come up with new columns and further visualizations.
 
 
+# Thank you for your time reading!

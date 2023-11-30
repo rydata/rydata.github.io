@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-11-29T17:53:24+08:00</updated>
+  <updated>2023-11-30T21:07:39+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,101 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>🆎🧪 Significance Testing and Statistical Analysis on Taxi Revenue</title>
+    <link href="http://localhost:4000/posts/stat-analysis-ab-testing/" rel="alternate" type="text/html" title="🆎🧪 Significance Testing and Statistical Analysis on Taxi Revenue" />
+    <published>2023-11-30T00:00:00+08:00</published>
+  
+    <updated>2023-11-30T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/stat-analysis-ab-testing/</id>
+    <content src="http://localhost:4000/posts/stat-analysis-ab-testing/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+    <category term="Statistics" />
+    
+    <category term="ABTesting" />
+    
+    <category term="NYCTLC-Series" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A/B Testing and Statistical Analysis for NYC TLC Fare Payment
+
+
+Empire Hotel in NYC Taken from an episode of Gossip Girl. Image Source: thenotsoinnocentsabroad.com/blog
+
+Project Overview
+
+
+  A/B Testing showed there is a statistically significant difference in average total payment between cash and credit card payments.
+  Further analysis shows that the difference might be due to tips.
+  Anothe...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>🏠 Real Estate House Sales - Tableau Dashboard</title>
+    <link href="http://localhost:4000/posts/tableau-project/" rel="alternate" type="text/html" title="🏠 Real Estate House Sales - Tableau Dashboard" />
+    <published>2023-11-23T00:00:00+08:00</published>
+  
+    <updated>2023-11-23T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/tableau-project/</id>
+    <content src="http://localhost:4000/posts/tableau-project/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+    <category term="Tableau" />
+    
+    <category term="Dashboard" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Real Estate House Sales Dashboard (Tableau)
+
+
+
+Project Overview
+
+  The dashboard represents House Sales for King County, Washington and contains data on house details (sqft, floors, rooms, yrs), prices conditions and geodata (latitude/longitude, zipcode).
+  6 visualizations were created,
+    
+      Daily House Sales Price (Line Chart)
+      House Price Distribution (Bar Plot)
+      Bedroom Coun...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>

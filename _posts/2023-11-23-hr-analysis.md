@@ -3,6 +3,7 @@ title: "🧑🏻‍🤝‍🧑🏽 HR Analysis: Predicting Employee Turnover wit
 date: 2023-11-23 00:00:00 +0800
 categories: [Full Process, Data Science]
 tags: [data science, cleaning, eda, visualization, logistic regression, decision tree, random forest, feature engineering, recommendations]
+pin: true
 ---
 
 ![banner](/portfolio/HR_Analysis/banner.png)
@@ -502,4 +503,4 @@ From the importance features the ff were identified as top leaving predictors:
 
 Thank you for your time reading this output on Salifort Motors. Although the output was lengthy and insights are summarized at the end, more detailed information and analyses are provided throughout the notebook, specifically in the Exploratory Data Analysis (EDA) and model building. 
 
-If you want similar analysis for your company or have job opportunities for a Data Analyst/Scientist feel free to email me at lotillaryan@gmail.com. Thank you again for your time and have a great day ahead!
+If you want similar analysis or have job opportunities for a Data Analyst/Scientist feel free to email me at lotillaryan@gmail.com. Thank you again for your time and have a great day ahead!
