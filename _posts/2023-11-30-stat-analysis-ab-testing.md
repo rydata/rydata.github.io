@@ -20,7 +20,7 @@ tags: [Statistical-Analysis, AB-Testing, Descriptive-Analysis, Python]
 - Recommendations were given to incentivize logging of tips.
 
 
-You can access the JUPYTER Notebook IPYNB file here **[LINK](httpx)**
+You can access the JUPYTER Notebook IPYNB file here
 
 ## Objectives
 - NYC TLC requests an analysis of the relationship between fare amount and payment type (cash vs credit card payments) via A/B testing.

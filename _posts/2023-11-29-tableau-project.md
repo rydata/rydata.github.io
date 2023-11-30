@@ -36,7 +36,7 @@ tags: [Tableau, Dashboard, Visualization]
 
 Please access the full Tableau Dashboard here **[LINK](https://public.tableau.com/app/profile/ryan.l4426/viz/KingCountyHouseSalesDashboardInspiredbyMoChen/KingCountyHouseSales#1 )**.
 
-You can access the data used in XLSX format here **[LINK](https:/ )**.
+You can access the data used in XLSX format here
 
 ## Objectives
 - Create a dashboard that visualize changes in Home Sales Price by time, in relation to its traits (bedroom/bathroom count, year built, size) and locations.
