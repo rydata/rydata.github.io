@@ -35,9 +35,9 @@ tags: [Decision Tree, Random Forest, XGBoost]
 
 
 Access the IPYNB files here:
-1. Decision Tree: **LINK**
-2. Random Forest: **LINK**
-3. XGBoost: **LINK**
+1. Decision Tree: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Airline_ML_Models/Airline_Decision_Tree.ipynb)**
+2. Random Forest: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Airline_ML_Models/Airline_Random_Forest.ipynb)**
+3. XGBoost: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Airline_ML_Models/Airline_XGBoostl.ipynb)**
 
 
 ## Objectives
@@ -263,9 +263,8 @@ Again, here are the compiled scores for all 3 models:
 
 - In terms of **Ease of online booking**, A/B and statistical tests can be done to determine whether or not certain versions of the websites had faster checkouts or better conversion. Investing into UI and web development may be beneficial for the airline. 
 
-- For **Food and Drink**, investing more in identifying customers preferences (which may differ for each location) may prove beneficial to overall satisfaction. Investing in quality ingredients, food R&D, and conducting surveys may play a big role in.   
+- For **Food and Drink**, investing more in identifying customers preferences (which may differ for each location) may prove beneficial to overall satisfaction. Investing in quality ingredients, food R&D, and conducting surveys may play a big role in improving overall satisfaction.
 
-- Finally, the models are highly predictive in all metrics. Further investing into building and understanding the models will be beneficial in predicting satisfaction.
-
+- Finally, the models are highly predictive in all metrics. Further investing into building and understanding the models will be a huge asset to the company by enabling them to do interventions/additional programs for unsatisfied clients and utilizing the model for future testing if client satisfaction improved with the recommended changes.
 
 ### Thank you for your time reading!

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-12-01T21:31:42+08:00</updated>
+  <updated>2023-12-01T22:56:32+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -102,7 +102,7 @@ Project Overview
     <link href="http://localhost:4000/posts/stat-analysis-ab-testing/" rel="alternate" type="text/html" title="🆎🧪 Significance Testing and Statistical Analysis on Taxi Revenue" />
     <published>2023-11-30T00:00:00+08:00</published>
   
-    <updated>2023-11-30T21:36:19+08:00</updated>
+    <updated>2023-12-01T22:05:17+08:00</updated>
   
     <id>http://localhost:4000/posts/stat-analysis-ab-testing/</id>
     <content src="http://localhost:4000/posts/stat-analysis-ab-testing/" />
@@ -150,7 +150,7 @@ Project Overview
     <link href="http://localhost:4000/posts/tableau-project/" rel="alternate" type="text/html" title="🏠 Real Estate House Sales - Tableau Dashboard" />
     <published>2023-11-23T00:00:00+08:00</published>
   
-    <updated>2023-11-30T21:36:19+08:00</updated>
+    <updated>2023-12-01T22:05:17+08:00</updated>
   
     <id>http://localhost:4000/posts/tableau-project/</id>
     <content src="http://localhost:4000/posts/tableau-project/" />
@@ -197,7 +197,7 @@ Project Overview
     <link href="http://localhost:4000/posts/excel-project/" rel="alternate" type="text/html" title="📈 Banking App Enrollment Campaign - Excel Dashboard" />
     <published>2023-11-23T00:00:00+08:00</published>
   
-    <updated>2023-11-30T21:08:07+08:00</updated>
+    <updated>2023-12-01T22:05:17+08:00</updated>
   
     <id>http://localhost:4000/posts/excel-project/</id>
     <content src="http://localhost:4000/posts/excel-project/" />
