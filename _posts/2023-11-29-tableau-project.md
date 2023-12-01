@@ -130,4 +130,4 @@ Prices indicators:
 
 - Again you may access the full Tableau Dashboard here **[LINK](https://public.tableau.com/app/profile/ryan.l4426/viz/KingCountyHouseSalesDashboardInspiredbyMoChen/KingCountyHouseSales#1 )**.
 
-# Thank you for your time viewing!
+### Thank you for your time viewing!

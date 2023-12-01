@@ -13,10 +13,11 @@ tags: [Statistical-Analysis, AB-Testing, Descriptive-Analysis, Python]
 
 ## Project Overview
 
-- A/B Testing showed there is a statistically significant difference in average total payment between cash and credit card payments. 
+- The A/B Testing conducted showed a statistically significant difference in payment amount between cash and credit card payments. 
+- Credit Card total payments was significantly higher than cash payments.
 - Further analysis shows that the difference might be due to tips. 
-- Another A/B test was conducted without the tips, showing that there is no statistical difference in fare amount, when tips were not accounted.
-- Using the groupby function, we see that tips are only recorded for credit card payments.
+- A second  A/B test was conducted without the tips, showing that there is no statistical difference in fare amount, when tips were not accounted.
+- Using the `groupby` function, we see that tips are only recorded for credit card payments.
 - Recommendations were given to incentivize logging of tips.
 
 
@@ -69,7 +70,7 @@ taxi_data.groupby('payment_type')['total_amount'].mean()
 
 #### Finding the p-value:
 
-We use this code block to use scipy stats hypothesis testing library.
+We use this code block to use scipy's stats hypothesis testing library with the `stats.ttest_ind()` function.
 
 ```python
 # conducting our hypothesis test
@@ -77,14 +78,13 @@ cash = taxi_data[taxi_data['payment_type']==2]['total_amount']
 credit_card = taxi_data[taxi_data['payment_type']==1]['total_amount']
 stats.ttest_ind(a=credit_card, b=cash, equal_var=False)
 ```
-Result:
-Ttest_indResult (statistic=20.34644022783838, pvalue=4.5301445359736376e-91)
 
+**Ttest_indResult(statistic=20.34644022783838, pvalue=4.5301445359736376e-91)**
 
+- **Assuming a significance value of 5%, we can reject the null hypothesis, we see that there is a statically significant difference from cash and payment method.**
 
 ### 3. Hypothesis Testing Interpretation (Round 1)
 
-Since p-value is significantly smaller than our significance level of 5%, we reject the hypothesis test.
 
 We can conclude that there is a statistically significant difference in the average total fare amount credit card vs cash users.
 
@@ -145,9 +145,9 @@ cash_fare= taxi_data[taxi_data['payment_type']==2]['fare_amount']
 credit_card_fare = taxi_data[taxi_data['payment_type']==1]['fare_amount']
 stats.ttest_ind(a=credit_card_fare, b=cash_fare, equal_var=False)
 ```
-Ttest_indResult(statistic=6.866800855655372, pvalue=6.797387473030518e-12)
+**Ttest_indResult(statistic=6.866800855655372, pvalue=6.797387473030518e-12)**
 
-- Assuming a significance value of 5%, we can see that there is no statically significant difference from cash and payment method.
+- **Assuming a significance value of 5%, we can see that there is no statically significant difference from cash and payment method.**
 
 ### 3. Hypothesis Testing Interpretation (Round 2)
 
@@ -179,8 +179,7 @@ We can do another `groupby` on payment type and `tip_amount` by its mean.
   - In this case, fare amount determines payment type rather than vice versa.
 
 ## Recommendations
-- It can be seen that tips are no longer reported on the system on average compared to credit card payment methods. 
-- It is possible for the team to look into methods to further incentivize recording of tips given, through the ff:
+- Since it can be seen that tips are no longer reported on the system on average compared to credit card payment methods. It is possible for the team to look into methods to further incentivize recording of tips given, through the ff:
   - Performance Bonuses
   - Recognition and Rewards
   - Education and Training
@@ -189,4 +188,4 @@ We can do another `groupby` on payment type and `tip_amount` by its mean.
   - Further discussion with drivers
 - Finally, conducting additional analysis on what causes tipping through interviews, surveys, additional data or FGD can be a viable step for the company.
 
-# Thank you for your time reading!
+### Thank you for your time reading!

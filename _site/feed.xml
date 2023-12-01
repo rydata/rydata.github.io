@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-11-30T21:34:40+08:00</updated>
+  <updated>2023-12-01T21:31:42+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,89 @@
 
   
   <entry>
+    <title>Client Churn Ml</title>
+    <link href="http://localhost:4000/posts/client-churn-ml/" rel="alternate" type="text/html" title="Client Churn Ml" />
+    <published>2023-12-01T00:00:00+08:00</published>
+  
+    <updated>2023-12-01T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/client-churn-ml/</id>
+    <content src="http://localhost:4000/posts/client-churn-ml/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>✈️😊 Predicting Airline Customer Satisfaction with Machine Learning</title>
+    <link href="http://localhost:4000/posts/airline-satisfaction-ml/" rel="alternate" type="text/html" title="✈️😊 Predicting Airline Customer Satisfaction with Machine Learning" />
+    <published>2023-11-30T00:00:00+08:00</published>
+  
+    <updated>2023-11-30T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/airline-satisfaction-ml/</id>
+    <content src="http://localhost:4000/posts/airline-satisfaction-ml/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+    <category term="Machine Learning" />
+    
+    <category term="Data Science" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Predicting Airline Customer Satisfaction with Machine Learning
+
+
+Image Source: https://www.retently.com/blog/airline-satisfaction/
+
+Project Overview
+
+  3 different supervised machine learning models were created to predict customer satisfaction
+  All 3 models built performed greatly in predicting customer satisfaction, these were also able to identify 3 most important predictors.
+  Decision Tre...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>🆎🧪 Significance Testing and Statistical Analysis on Taxi Revenue</title>
     <link href="http://localhost:4000/posts/stat-analysis-ab-testing/" rel="alternate" type="text/html" title="🆎🧪 Significance Testing and Statistical Analysis on Taxi Revenue" />
     <published>2023-11-30T00:00:00+08:00</published>
   
-    <updated>2023-11-30T21:12:13+08:00</updated>
+    <updated>2023-11-30T21:36:19+08:00</updated>
   
     <id>http://localhost:4000/posts/stat-analysis-ab-testing/</id>
     <content src="http://localhost:4000/posts/stat-analysis-ab-testing/" />
@@ -58,9 +136,9 @@ Empire Hotel in NYC Taken from an episode of Gossip Girl. Image Source: thenotso
 Project Overview
 
 
-  A/B Testing showed there is a statistically significant difference in average total payment between cash and credit card payments.
-  Further analysis shows that the difference might be due to tips.
-  Anothe...
+  The A/B Testing conducted showed a statistically significant difference in payment amount between cash and credit card payments.
+  Credit Card total payments was significantly higher than cash payments.
+  F...
     </summary>
   
 
@@ -72,7 +150,7 @@ Project Overview
     <link href="http://localhost:4000/posts/tableau-project/" rel="alternate" type="text/html" title="🏠 Real Estate House Sales - Tableau Dashboard" />
     <published>2023-11-23T00:00:00+08:00</published>
   
-    <updated>2023-11-30T21:12:13+08:00</updated>
+    <updated>2023-11-30T21:36:19+08:00</updated>
   
     <id>http://localhost:4000/posts/tableau-project/</id>
     <content src="http://localhost:4000/posts/tableau-project/" />
@@ -150,91 +228,6 @@ Project Overview
   A bank is launching a new campaign aimed to encourage current clients to enroll in their new mobile application.
   The country is divided into 5 regions. Performance for each region can be filtered using slicer function in excel.
   A line graph, stacked bar chart and highlights of key values were used to represent key factors...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>🧑🏻‍🤝‍🧑🏽 HR Analysis: Predicting Employee Turnover with Machine Learning - Full Process</title>
-    <link href="http://localhost:4000/posts/hr-analysis/" rel="alternate" type="text/html" title="🧑🏻‍🤝‍🧑🏽 HR Analysis: Predicting Employee Turnover with Machine Learning - Full Process" />
-    <published>2023-11-23T00:00:00+08:00</published>
-  
-    <updated>2023-11-30T21:08:07+08:00</updated>
-  
-    <id>http://localhost:4000/posts/hr-analysis/</id>
-    <content src="http://localhost:4000/posts/hr-analysis/" />
-    <author>
-      <name>Ryan Lotilla</name>
-    </author>
-
-  
-    
-    <category term="Full Process" />
-    
-    <category term="Data Science" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Image Source: peoplemanagingpeople.com
-
-Data Science Process
-In this project, the following skills were applied: Cleaning, EDA, Machine Learning Models (Logistic Regression, Decision Tree, Random Forest) and Recommendations
-
-
-  Please use the outline on the right side of the webpage for easier navigation!
-
-
-Project Objective Overview
-
-  Central Question: Why causes employees to leave the compa...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://localhost:4000/posts/hello-world/" rel="alternate" type="text/html" title="Hello World" />
-    <published>2023-06-03T00:00:00+08:00</published>
-  
-    <updated>2023-06-03T00:00:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/hello-world/</id>
-    <content src="http://localhost:4000/posts/hello-world/" />
-    <author>
-      <name>Ryan Lotilla</name>
-    </author>
-
-  
-    
-    <category term="Hello World" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Hello World
-
-Hello World this is my personal blog.
-
     </summary>
   
 
