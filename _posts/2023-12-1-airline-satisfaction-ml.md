@@ -1,10 +1,9 @@
 ---
-title: "✈️😊 Predicting Airline Customer Satisfaction with Machine Learning"
+title: "✈️😊 Predicting Airline Customer Satisfaction with Machine Learning <br/> (Tree Based Models & XGBoost)"
 date: 2023-11-30 00:00:00 +0800
 categories: [Machine Learning, Data Science]
 tags: [Decision Tree, Random Forest, XGBoost]
 ---
-
 
 # Predicting Airline Customer Satisfaction with Machine Learning
 

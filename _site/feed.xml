@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-12-01T22:56:32+08:00</updated>
+  <updated>2023-12-05T18:18:24+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -20,19 +20,23 @@
 
   
   <entry>
-    <title>Client Churn Ml</title>
-    <link href="http://localhost:4000/posts/client-churn-ml/" rel="alternate" type="text/html" title="Client Churn Ml" />
-    <published>2023-12-01T00:00:00+08:00</published>
+    <title>🐧 Identifying Penguin species through K-means clustering</title>
+    <link href="http://localhost:4000/posts/penguin-specie-kmeans/" rel="alternate" type="text/html" title="🐧 Identifying Penguin species through K-means clustering" />
+    <published>2023-11-30T00:00:00+08:00</published>
   
-    <updated>2023-12-01T00:00:00+08:00</updated>
+    <updated>2023-11-30T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/client-churn-ml/</id>
-    <content src="http://localhost:4000/posts/client-churn-ml/" />
+    <id>http://localhost:4000/posts/penguin-specie-kmeans/</id>
+    <content src="http://localhost:4000/posts/penguin-specie-kmeans/" />
     <author>
       <name>Ryan Lotilla</name>
     </author>
 
   
+    
+    <category term="Machine Learning" />
+    
+    <category term="Data Science" />
     
   
 
@@ -45,7 +49,16 @@
 
 
       
+Artwork by @allison_horst
 
+Project Overview
+
+  In most datasets, we do not realistically know how to effectively group or classify our data yet (customer segments, products etc.) or have labeled data already.
+    
+      When this happens, we can use unsupervised machine learning techniques to classify our data based on commonalities.
+    
+  
+  Using a K-means model, we were able to automate cl...
     </summary>
   
 
@@ -53,11 +66,11 @@
 
   
   <entry>
-    <title>✈️😊 Predicting Airline Customer Satisfaction with Machine Learning</title>
-    <link href="http://localhost:4000/posts/airline-satisfaction-ml/" rel="alternate" type="text/html" title="✈️😊 Predicting Airline Customer Satisfaction with Machine Learning" />
+    <title>✈️😊 Predicting Airline Customer Satisfaction with Machine Learning <br/> (Tree Based Models &amp; XGBoost)</title>
+    <link href="http://localhost:4000/posts/airline-satisfaction-ml/" rel="alternate" type="text/html" title="✈️😊 Predicting Airline Customer Satisfaction with Machine Learning &amp;lt;br/&amp;gt; (Tree Based Models &amp;amp; XGBoost)" />
     <published>2023-11-30T00:00:00+08:00</published>
   
-    <updated>2023-11-30T00:00:00+08:00</updated>
+    <updated>2023-12-01T22:56:50+08:00</updated>
   
     <id>http://localhost:4000/posts/airline-satisfaction-ml/</id>
     <content src="http://localhost:4000/posts/airline-satisfaction-ml/" />
