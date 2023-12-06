@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Ryan Lotilla</title>
   <subtitle>Portfolio for Data Analysis, Machine Learning and other projects. blog, tremo, github, </subtitle>
-  <updated>2023-12-06T14:24:31+08:00</updated>
+  <updated>2023-12-07T00:55:12+08:00</updated>
   <author>
     <name>Ryan Lotilla</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,53 @@
 
   
   <entry>
+    <title>📊 Data Professionals Survey Breakdown - PowerBI Breakdown/Dashboard</title>
+    <link href="http://localhost:4000/posts/datafield-powerbi/" rel="alternate" type="text/html" title="📊 Data Professionals Survey Breakdown - PowerBI Breakdown/Dashboard" />
+    <published>2023-12-06T00:00:00+08:00</published>
+  
+    <updated>2023-12-06T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/datafield-powerbi/</id>
+    <content src="http://localhost:4000/posts/datafield-powerbi/" />
+    <author>
+      <name>Ryan Lotilla</name>
+    </author>
+
+  
+    
+    <category term="PowerBI" />
+    
+    <category term="Dashboard" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Image Source: data.org/guides/building-a-data-team/
+
+Project Overview
+
+  Alex has conducted a survey of over 600 participants to data professionals all over the world. With the raw data coming from the survey, he tasks a data analyst to create their own visualizations and breakdown of the responses.
+  Through PowerBI, a breakdown in a form of a dashboard was created to help visualize survey re...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>🐧 Identifying Penguin species through K-means clustering</title>
     <link href="http://localhost:4000/posts/penguin-specie-kmeans/" rel="alternate" type="text/html" title="🐧 Identifying Penguin species through K-means clustering" />
     <published>2023-11-30T00:00:00+08:00</published>
   
-    <updated>2023-11-30T00:00:00+08:00</updated>
+    <updated>2023-12-06T14:31:32+08:00</updated>
   
     <id>http://localhost:4000/posts/penguin-specie-kmeans/</id>
     <content src="http://localhost:4000/posts/penguin-specie-kmeans/" />
@@ -199,48 +241,6 @@ Project Overview
       Daily House Sales Price (Line Chart)
       House Price Distribution (Bar Plot)
       Bedroom Coun...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>📈 Banking App Enrollment Campaign - Excel Dashboard</title>
-    <link href="http://localhost:4000/posts/excel-project/" rel="alternate" type="text/html" title="📈 Banking App Enrollment Campaign - Excel Dashboard" />
-    <published>2023-11-23T00:00:00+08:00</published>
-  
-    <updated>2023-12-01T22:05:17+08:00</updated>
-  
-    <id>http://localhost:4000/posts/excel-project/</id>
-    <content src="http://localhost:4000/posts/excel-project/" />
-    <author>
-      <name>Ryan Lotilla</name>
-    </author>
-
-  
-    
-    <category term="Excel" />
-    
-    <category term="Dashboard" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Enrollment Campaign for Banking App Registration
-
-Project Overview
-
-  A bank is launching a new campaign aimed to encourage current clients to enroll in their new mobile application.
-  The country is divided into 5 regions. Performance for each region can be filtered using slicer function in excel.
-  A line graph, stacked bar chart and highlights of key values were used to represent key factors...
     </summary>
   
 

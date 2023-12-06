@@ -1,6 +1,6 @@
 ---
 title: "🧑🏻‍🤝‍🧑🏽 HR Analysis: Predicting Employee Turnover with Machine Learning 
-<br/> (Regression, Tree Based Models & XGBoost) - Full Process"
+<br/> (EDA, Regression, Tree Based Models & XGBoost) - Full Process"
 date: 2023-11-23 00:00:00 +0800
 categories: [Full Process, Data Science]
 tags: [Data Science, Cleaning, Eda, Visualization, Logistic Regression, Decision Tree, Random Forest, Feature Engineering, Recommendations]
