@@ -14,7 +14,7 @@ tags: [Data Science, Unsupervised Learning, K-means, Clustering, Data Preparatio
 - Using a K-means model, we were able to automate classifying penguins by its species and genders purely based on their measurements (bill length, bill depth, flipper length body mass and gender).
  - The K-means model was highly successful in classifying penguins showing us the application of clustering in employee education and projects.
 
-You can access the IPYNB file for more details here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Excel_Dashboard/enrollment_excel_db.xlsx)**
+You can access the IPYNB file for more details here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Penguin_K-means/Penguin_Classify_K-means.ipynb)**
 
 ## Objectives
 - Create a model to find patterns within penguins to allow the zoo's care taker team to find patterns to learn more about the penguins specie to give them the proper care and environment needed.
@@ -34,7 +34,7 @@ You can access the IPYNB file for more details here **[LINK](https://github.com/
 
 ## Steps Taken
 ### 1. Imports, Data Exploration, Data Encoding and Scaling
-- Again this will be a short summary of steps taken for the project. You can access the full breakdown and process here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Excel_Dashboard/enrollment_excel_db.xlsx)**
+- Again this will be a short summary of steps taken for the project. You can access the full breakdown and process here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Penguin_K-means/Penguin_Classify_K-means.ipynb)**
 
 #### Importing Libraries
 - Let import the following packages for this project:
