@@ -20,9 +20,9 @@ Here is a preview of the prepared breakdown:
 
 ![dashboard_preview](/portfolio/Datafield_PowerBI/bi_dashboard_prev.png)
 
-You can access the PBIX file created for the project here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Penguin_K-means/Penguin_Classify_K-means.ipynb)**
+You can access the PBIX file created for the project here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Datafield_PowerBI/Data%20Professional%20Survey%20Breakdown_Rydata.pbix)**
 
-You may also access the dataset used here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Penguin_K-means/Penguin_Classify_K-means.ipynb)**
+You may also access the dataset used here: **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/Datafield_PowerBI/Power%20BI%20-%20Survey%20Responses.xlsx)**
 
 ## Objectives
 - Create a breakdown and analysis of survey responses taken data professionals. 
@@ -101,19 +101,19 @@ You may also access the dataset used here: **[LINK](https://github.com/rydata/ry
 
 
 # Conclusions and Recommendations
-## Insight
+## Output Observations and Insight
 - To start there are a total of 630 responses, majority from the United States (261), followed by other countries (224). The median age was 28.
 - Data Scientists are paid the most almost double of Data Analyst. This was followed up by Data Engineer and Data Architect in that order.
 - Python is massively preferred by most data professionals, followed by R and other. From the dataset, the other options mostly contain SQL. 
 - Surprisingly, 59% shifted into the Data Career field. This may be due to massive factors, including being a relatively new and emerging field.
 - Majority of survey respondents came from other industries, followed by tech, finance and healthcare. 
-- Almost half found transitioning in the Data field neither difficult nor easy. The rest found it difficult (25%) followed by easy (7%)
+- Almost half found transitioning in the Data field neither difficult nor easy. The rest found it difficult (25%) followed by easy (21%)
 - Finally, Happiness w/ Salary rating was less than average (4.3/10) and Happiness w/ Work Life Balance was slightly above average (5.7/10).
 
 
 ## Improving the Project
 - Since the focus of the project was more on  building the project, more focus can be given into cleaning the datasets. Instead of grouping countries by "other", more time can be taken to properly transform countries w/ high counts. 
-- This can be said with Industry also and other types of data.
+- This can also be said with Industry and other types of data.
 - In exchange for clarity, more graphics and visuals can also be added or experimented with.
 - Although the entire graphic is interactive, filters can also be utilized.
 - Feature Engineering can also be preformed to come up with new columns and measures to visualize.
