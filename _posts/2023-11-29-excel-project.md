@@ -29,7 +29,7 @@ You can access the EXCEL file here **[LINK](https://github.com/rydata/rydata.git
 # Project Process
 
 ## Project Context
-- This dashboard was given to me as a task for one of my internships, however, at that time I was not knowledgeable in the data field yet.
+- This dashboard was given to me as a task for one of my internships, however, at that time I was still learning data visualization.
 - The task was to create a dashboard to track performance for the new mobile app enrollment campaign.
 - Due to data privacy, I was not provided with data, only examples from previous dashboards. 
 

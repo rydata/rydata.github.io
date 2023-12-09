@@ -22,8 +22,9 @@ More about me below!
 
 ### Contact Me
 - Email: lotillaryan@gmail.com
-- Linkedin: https://www.linkedin.com/in/ryan-lotilla-1411b51b1/
-- I am ready to start ASAP.
+- Resume: **[Google Drive Link](https://tinyurl.com/rydata)**
+- Linkedin: **[Linkedin Profile](https://www.linkedin.com/in/ryan-lotilla-1411b51b1/)**
+- I am looking to start ASAP.
 
 
 ### Project Highlights
