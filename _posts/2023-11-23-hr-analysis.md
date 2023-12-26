@@ -21,6 +21,8 @@ In this project, the following skills were applied: Cleaning, EDA, Machine Learn
 - Based on this, we pull insights and strategical recommendations.
 - Libraries used include: numpy, pandas, matplotlib, seaborn, sklearn (logistic regression, decision tree, random forest, gridsearch, metrics) and pickle to save the model.
 - You can access the Jupyter Notebook IPYNB file here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/HR_Analysis/Course%207%20Salifort%20Motors%20project%20lab.ipynb)**
+- Access the raw dataset used here **[LINK](https://github.com/rydata/rydata.github.io/tree/main/portfolio/HR_Analysis)**
+- Access a 1 Pager Report summarizing projects insights here **[LINK](https://github.com/rydata/rydata.github.io/tree/main/portfolio/HR_Analysis)**
 
 ## Project Findings Overview
 ### On Employees who stayed:
@@ -47,7 +49,20 @@ In this project, the following skills were applied: Cleaning, EDA, Machine Learn
 
 # Data Cleaning and Preparation 
 
-After importing the packages we can do our initial data cleaning
+Here is what the first 5 rows of our dataset looks like:
+
+||satisfaction_level|last_evaluation|number_project|average_montly_hours|time_spend_company|Work_accident|left|promotion_last_5years|Department|salary|
+|---|---|---|---|---|---|---|---|---|---|---|
+|0|0.38|0.53|2|157|3|0|1|0|sales|low|
+|1|0.80|0.86|5|262|6|0|1|0|sales|medium|
+|2|0.11|0.88|7|272|4|0|1|0|sales|medium|
+|3|0.72|0.87|5|223|5|0|1|0|sales|low|
+|4|0.37|0.52|2|159|3|0|1|0|sales|low|
+
+In total, our dataset contains 10 columns and 14999 rows of data on the employees. All insights and findings will be solely derived from this data set.
+
+
+After importing the packages we can do our initial data cleaning:
 
 - `head(), .info, .describe and .columns` to better understand our data
 - rename the columns to snake_case (lowercase and underscores) and correct mispellings
