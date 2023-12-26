@@ -21,8 +21,10 @@ In this project, the following skills were applied: Cleaning, EDA, Machine Learn
 - Based on this, we pull insights and strategical recommendations.
 - Libraries used include: numpy, pandas, matplotlib, seaborn, sklearn (logistic regression, decision tree, random forest, gridsearch, metrics) and pickle to save the model.
 - You can access the Jupyter Notebook IPYNB file here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/HR_Analysis/Course%207%20Salifort%20Motors%20project%20lab.ipynb)**
-- Access the raw dataset used here **[LINK](https://github.com/rydata/rydata.github.io/tree/main/portfolio/HR_Analysis)**
-- Access a 1 Pager Report summarizing projects insights here **[LINK](https://github.com/rydata/rydata.github.io/tree/main/portfolio/HR_Analysis)**
+- Access the raw dataset used here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/HR_Analysis/HR_capstone_dataset.csv)**
+- Access the 1 Page Report summarizing projects insights here **[GDRIVE LINK](https://drive.google.com/drive/u/1/folders/1PlP9JbTSmUGx59eU_AeGVwEoYrQ17lCN)**
+
+![1PageReport](/portfolio/HR_Analysis/1PageReport.png)
 
 ## Project Findings Overview
 ### On Employees who stayed:
@@ -59,8 +61,8 @@ Here is what the first 5 rows of our dataset looks like:
 |3|0.72|0.87|5|223|5|0|1|0|sales|low|
 |4|0.37|0.52|2|159|3|0|1|0|sales|low|
 
-In total, our dataset contains 10 columns and 14999 rows of data on the employees. All insights and findings will be solely derived from this data set.
-
+- In total, our dataset contains 10 columns and 14999 rows of data on the employees. All insights and findings will be solely derived from this data set.
+- Again, you may access the raw dataset used here **[LINK](https://github.com/rydata/rydata.github.io/blob/main/portfolio/HR_Analysis/HR_capstone_dataset.csv)**
 
 After importing the packages we can do our initial data cleaning:
 
@@ -445,6 +447,7 @@ We can see that he most important predictors on leavers are:
 - It is important to conduct interviews or follow-up investigation on the groups of individuals that left the company (such as year 4 leavers). 
 
 # Recommendations and Next Steps for Salifort Motors
+
 <details markdown="1"><summary> Expand for Full Summary/Recap in earlier stages</summary>
 
 ## Insights Based on Model
@@ -513,6 +516,8 @@ From the importance features the ff were identified as top leaving predictors:
 
 ## Ethical Considerations
 - Deployment of the model will cause identification of certain individuals who may be likely to resign. With this, the company has great responsibility to maintain fairness when treating its leaving and non-leaving employees. Likewise, the model still has false positive/negative predictions and ultimately, early intervention is required from the company rather than relying on the model. 
+
+- Again, you may access the 1 Page Report summarizing projects insights here **[GDRIVE LINK](https://drive.google.com/drive/u/1/folders/1PlP9JbTSmUGx59eU_AeGVwEoYrQ17lCN)**
 
 
 ### Conclusion
